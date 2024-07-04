@@ -45,8 +45,8 @@
 ## Proof of Concept:
 
 * Step 1 - Visit http://localhost/asispanel/
-* Step 2 - Enter username as admin'# and password as xyz
-* Step 3 – Click LOGIN and now you will be logged in as admin.
+* Step 2 - Enter username as `admin'#` and password as `xyz`
+* Step 3 – Click `LOGIN` and now you will be logged in as admin.
 
 ### Payloads Can be use:
 
