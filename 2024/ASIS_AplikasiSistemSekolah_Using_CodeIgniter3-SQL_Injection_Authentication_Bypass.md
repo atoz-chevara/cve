@@ -11,6 +11,10 @@
 
 > atoz.chevara@yahoo.com
 
+### Google Dork:
+
+> "ASIS | Aplikasi Sistem Sekolah"
+
 ### Vendor Homepage:
 
 > https://www.facebook.com/groups/181558652941070/
