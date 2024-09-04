@@ -55,6 +55,8 @@ admin'#
 '||1#
 '||1-- 
 '=' 'or'
+' OR '1'='1
+' or 0=0 ##
 ```
 
 ## Recommendations
