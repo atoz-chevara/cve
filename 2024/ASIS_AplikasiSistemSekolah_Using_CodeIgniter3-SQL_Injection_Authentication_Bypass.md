@@ -1,7 +1,7 @@
 # ASIS | Aplikasi Sistem Sekolah using CodeIgniter 3 - SQL Injection Authentication Bypass
 
 ### CVE Assigned:
-**[CVE-2024-XXXXX](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-XXXXX)** [mitre.org](https://www.cve.org/CVERecord?id=CVE-2024-XXXXX) [nvd.nist.org](https://nvd.nist.gov/vuln/detail/CVE-2024-XXXXX)
+**[CVE-2024-45622](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45622)** [mitre.org](https://www.cve.org/CVERecord?id=CVE-2024-45622) [nvd.nist.org](https://nvd.nist.gov/vuln/detail/CVE-2024-45622)
 
 ### Date:
 
